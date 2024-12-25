@@ -1,0 +1,10 @@
+Front End Dependencies
+
+1. 	Npm install 
+
+2. 	ReduxJs/Toolkit - npm install @reduxjs/toolkit react-redux
+	Bootstrap CSS - npm i bootstrap@5.3.3
+	TailWind CSS - nom install -D tailwindcss
+	React-Icons - npm install react-icons —save
+	React-Router - npm install react-router 
+	React-Router-Dom - npm install react-router-dom 
